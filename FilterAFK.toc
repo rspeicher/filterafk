@@ -1,0 +1,4 @@
+## Interface: 20000
+## Title: FilterAFK
+## Notes: Filters the AFK auto-response from people after you've seen it.
+FilterAFK.xml
